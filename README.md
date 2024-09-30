@@ -49,10 +49,6 @@ pip install gradio diffusers transformers accelerate scipy ftfy sentencepiece
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Add your chosen license here]
-
 ## Acknowledgements
 
 - Hugging Face for providing the translation and image generation models
